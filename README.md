@@ -20,4 +20,4 @@ CRUD functions, multiple resources, authentication system built from scratch, fr
 Production email confirmation functionality, extending devise basic functionality, payment using Stripe API, file storage with AWS S3 bucket.
 
 ### Bonus App 
-Mama Tech community application  - combination of skills learnt.
+Mama Tech Community app  - combination of skills learnt.
